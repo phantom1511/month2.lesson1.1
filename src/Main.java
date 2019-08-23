@@ -24,7 +24,5 @@ public class Main {
         dog2.makeVoice("Miau", 3);
 
         System.out.println(dog.getInfo()+ "\n" + dog1.getInfo()+ "\n" + dog2.getInfo());
-
-
     }
 }
